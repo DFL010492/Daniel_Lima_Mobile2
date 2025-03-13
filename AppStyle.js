@@ -65,6 +65,7 @@ export const styles = StyleSheet.create({
     fontSize: 14,
     color: "#333",
     marginTop: 5,
+    fontFamily: "Poller",
   },
   arrowIcon: {
     marginLeft: 'auto',
